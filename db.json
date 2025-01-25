@@ -1,0 +1,14 @@
+{
+    "_default": {
+        "1": {
+            "name": "Asadbek",
+            "age": 20,
+            "occupation": "Engeener"
+        },
+        "2": {
+            "name": "Husan",
+            "age": 45,
+            "occupation": "Doctor"
+        }
+    }
+}
