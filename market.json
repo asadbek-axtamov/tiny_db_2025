@@ -1,0 +1,21 @@
+{
+    "_default": {
+        "1": {
+            "name": "Galaxy Watch Ultra",
+            "cost": 350,
+            "color": "titan"
+        },
+        "2": {
+            "name": "Galaxy S25 Ultra",
+            "price": 1300,
+            "color": "black",
+            "memory": 512
+        },
+        "3": {
+            "name": "Galaxy Book5 Pro",
+            "price": 1100,
+            "color": "gold",
+            "memory": 1024
+        }
+    }
+}
